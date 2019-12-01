@@ -1,0 +1,60 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 95vw;
+    margin: 5px;
+}
+
+.header img {
+    padding-right: 5px;
+}
+
+.header a {
+    font-size: 18px;
+    text-decoration: none;
+    padding: 3px;
+    background-color: rgb(226, 148, 3);
+    color: rgb(3, 102, 24);
+    letter-spacing: 1px;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+    border-radius: 3px;
+}
+
+.bannerWrapper {
+    width: 100vw;
+    display: flex;
+    text-align: center;
+    margin-bottom: 1px;
+}
+
+.bannerWrapper img {
+    padding-top: 1px;
+    padding-left: 7px;
+}
+
+.imageSlider {
+    display: flex;
+    justify-content: center;
+}
+
+.carouselHeader {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-bottom: 1px;
+}
+
+.menuWrapper h1 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.mangOzFamily {
+    display: flex;
+    justify-content: center;
+}
+
+#familyHeader {
+    text-align: center;
+    margin-bottom: 1px;
+}
