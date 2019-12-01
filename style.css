@@ -43,6 +43,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     margin-bottom: 1px;
+    padding-left: 5px;
 }
 
 .menuWrapper h1 {
@@ -57,4 +58,10 @@
 #familyHeader {
     text-align: center;
     margin-bottom: 1px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 5px;
+    padding-left: 5px;
 }
